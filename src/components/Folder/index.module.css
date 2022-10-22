@@ -1,0 +1,32 @@
+.main {
+
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 4px 0;
+}
+
+.icon {
+  cursor: pointer;
+}
+
+.name {
+
+}
+
+.body {
+  padding-left: 32px;
+}
+
+.actions_icon {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.actions_icon svg{
+  cursor: pointer;
+}
